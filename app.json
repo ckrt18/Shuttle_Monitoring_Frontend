@@ -30,7 +30,7 @@
       [
         "@rnmapbox/maps",
         {
-          "RNMapboxMapsImpl": "mapbox"
+          "RNMapboxMapsImpl": "maplibre"
         }
       ]
     ]
